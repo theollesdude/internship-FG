@@ -1,6 +1,7 @@
 //////////////////////////////////////////////////////////////////////////////////
 ///
 ///  Rotate Around Me Script for Frauenhofer-Gesellschaft (Internship Task)
+///  A script that lets a "Sphere" object orbit around the origin object "Cube".
 ///  Oliver Werner
 ///  08.04.2022
 /// 
